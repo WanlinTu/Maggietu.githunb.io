@@ -1,2 +1,2 @@
-# Maggie Tu's portfolio
+# Maggie Tu's Portfolio
 Maggietu.githunb.io/portfolio
