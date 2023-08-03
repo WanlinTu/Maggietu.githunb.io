@@ -1,4 +1,4 @@
-#Senior Business Analytics Student
+# Senior Business Analytics Student
 
 ### Education
 Business Analytics GPA:3.97
