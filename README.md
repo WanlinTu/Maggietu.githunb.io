@@ -1,5 +1,7 @@
 # Data Analyst
 
+#### Technical Skills: R, Python, SQL, Tableau
+
 ### Education
 - B.S., Business Analytics | University of Cicinnati GPA:3.97
 
