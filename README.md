@@ -3,7 +3,8 @@
 #### Technical Skills: R, Python, SQL, Tableau
 
 ### Education
-- B.S., Business Analytics | University of Cicinnati GPA:3.97
+
+- B.S. Business Analytics | University of Cicinnati GPA:3.97
 
 ### Work Experience
 **Data Analyst Volunteer @WaterFire Providence (_June 2023 - Present_)** 
